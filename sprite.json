@@ -172,7 +172,8 @@
     "pixelRatio": 1,
     "width": 80,
     "x": 0,
-    "y": 0
+    "y": 0,
+    "sdf": true
   },
   "dentist_11": {
     "height": 17,
