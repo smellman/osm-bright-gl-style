@@ -327,7 +327,8 @@
     "pixelRatio": 2,
     "width": 34,
     "x": 578,
-    "y": 230
+    "y": 230,
+    "sdf": true
   },
   "monument_11": {
     "height": 34,
